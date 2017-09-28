@@ -25,3 +25,5 @@ So let's lend Moli's friends a helping hand~
 1.Android with Minimum API: Android 6.0 'Marshmallow' is required
 
 2.Please read the story with headphone (microphone included) for the best experience
+
+3.Please read the Documentation for more information
