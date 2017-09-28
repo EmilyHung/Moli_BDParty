@@ -1,5 +1,5 @@
 # Moli_BDParty
-Introduction\n
+Introduction
 A 2D digital storybook app created with Unity for Android phones.
 
 Story Background
